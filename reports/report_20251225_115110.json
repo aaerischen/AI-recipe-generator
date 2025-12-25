@@ -1,0 +1,18 @@
+{
+    "image_analysis": "The image shows a table with a blue and white plate topped with broccoli, corn, tomatoes, and onions, as well as other objects.",
+    "matched_recipe": "Салат с курицей, брокколи и помидорами черри",
+    "timings": {
+        "vision": 13.491814374923706,
+        "rag": 0.3035919666290283,
+        "llm": 34.462807416915894,
+        "total": 48.25821375846863
+    },
+    "metrics": {
+        "relevance_score": 0.0
+    },
+    "user_data": {
+        "w": 117,
+        "h": 170,
+        "goal": "Сброс веса"
+    }
+}

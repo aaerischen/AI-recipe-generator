@@ -1,0 +1,18 @@
+{
+    "image_analysis": "The image shows a table with a blue and white plate topped with lettuce, carrots, and a can of olive oil. The plate is filled with a variety of vegetables, including lettuce, tomatoes, cucumbers, and carrots. The can of oil is also visible on the table.",
+    "matched_recipe": "Салат с карамелизированной куриной печенью",
+    "timings": {
+        "vision": 16.992917776107788,
+        "rag": 0.40944480895996094,
+        "llm": 29.20258593559265,
+        "total": 46.6049485206604
+    },
+    "metrics": {
+        "relevance_score": 0.0
+    },
+    "user_data": {
+        "w": 117,
+        "h": 170,
+        "goal": "Сброс веса"
+    }
+}

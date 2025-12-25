@@ -1,0 +1,18 @@
+{
+    "image_analysis": "The image shows a banana, two eggs, and a box of fruit sitting on top of a counter. The banana is a bright yellow color, the eggs are white, and the box is a light brown color. The counter is a neutral color and the banana and eggs are arranged in a neat row.",
+    "matched_recipe": "Бананы, запеченные с творогом.",
+    "timings": {
+        "vision": 30.53783893585205,
+        "rag": 0.9469585418701172,
+        "llm": 30.873363733291626,
+        "total": 62.358161211013794
+    },
+    "metrics": {
+        "relevance_score": 0.0
+    },
+    "user_data": {
+        "w": 117,
+        "h": 170,
+        "goal": "Сброс веса"
+    }
+}

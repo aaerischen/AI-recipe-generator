@@ -1,0 +1,18 @@
+{
+    "image_analysis": "The image shows a table topped with bowls filled with food, including a chicken, cabbage, carrots, and other vegetables, as well as glasses and other objects.",
+    "matched_recipe": "Слоеный куриный салат с овощами и фисташками",
+    "timings": {
+        "vision": 28.784758806228638,
+        "rag": 0.8125717639923096,
+        "llm": 34.93260884284973,
+        "total": 64.52993941307068
+    },
+    "metrics": {
+        "relevance_score": 0.0
+    },
+    "user_data": {
+        "w": 117,
+        "h": 170,
+        "goal": "Сброс веса"
+    }
+}

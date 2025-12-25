@@ -1,0 +1,18 @@
+{
+    "image_analysis": "The image shows a pink bowl filled with a piece of chicken, cheese, and a box of pasta next to it on a table. The chicken is likely being prepared for cooking, as indicated by the text at the bottom of the image.",
+    "matched_recipe": "Наваристый куриный суп с макаронами",
+    "timings": {
+        "vision": 16.12872004508972,
+        "rag": 0.4033048152923584,
+        "llm": 35.51069164276123,
+        "total": 52.04271650314331
+    },
+    "metrics": {
+        "relevance_score": 0.0
+    },
+    "user_data": {
+        "w": 117,
+        "h": 170,
+        "goal": "Сброс веса"
+    }
+}
